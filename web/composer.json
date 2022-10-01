@@ -19,8 +19,7 @@
         "laravelcollective/html": "^6.1",
         "predis/predis": "^1.1",
         "tymon/jwt-auth": "^1.0.0-rc.1",
-        "laravel/ui": "^2.0",
-        "fruitcake/laravel-cors": "^2.0"
+        "laravel/ui": "^2.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.3.1",
